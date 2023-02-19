@@ -1,3 +1,9 @@
+## Clone the Project and follow the next.js rules for building the app and running it on localhost:3000
+This project uses an API connected to a Mongo database with movie records. You will be able to view a collection of movies and view properties of the specified movie.
+
+The Tech-Stack for this project is : Mongo.Db / Next.js / React.js / Boostrap v5.2
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
